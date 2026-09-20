@@ -1,0 +1,7 @@
+{
+  "name": "CampusConnect",
+  "description": "College campus networking and AI-powered Lost & Found platform. Connect with students, discover peers, report lost or found items, and match belongings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
